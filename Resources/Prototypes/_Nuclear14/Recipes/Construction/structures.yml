@@ -93,8 +93,8 @@
   canBuildInImpassable: false
   hide: false
   icon:
-    sprite: _Nuclear14/Structures/Doors/SlantedDoors/metalblue.rsi
-    state: closed
+    sprite: _Nuclear14/Structures/Doors/SlantedDoors/icons.rsi
+    state: metalblue
   conditions:
     - !type:TileNotBlocked
     
@@ -111,8 +111,8 @@
   canBuildInImpassable: false
   hide: false
   icon:
-    sprite: _Nuclear14/Structures/Doors/SlantedDoors/metalbluealt.rsi
-    state: closed
+    sprite: _Nuclear14/Structures/Doors/SlantedDoors/icons.rsi
+    state: metalbluealt
   conditions:
     - !type:TileNotBlocked
     
@@ -129,8 +129,8 @@
   canBuildInImpassable: false
   hide: false
   icon:
-    sprite: _Nuclear14/Structures/Doors/SlantedDoors/metalred.rsi
-    state: closed
+    sprite: _Nuclear14/Structures/Doors/SlantedDoors/icons.rsi
+    state: metalred
   conditions:
     - !type:TileNotBlocked
     
@@ -147,8 +147,8 @@
   canBuildInImpassable: false
   hide: false
   icon:
-    sprite: _Nuclear14/Structures/Doors/SlantedDoors/metalbluewindow.rsi
-    state: closed
+    sprite: _Nuclear14/Structures/Doors/SlantedDoors/icons.rsi
+    state: metalbluewindow
   conditions:
     - !type:TileNotBlocked
     
@@ -165,8 +165,8 @@
   canBuildInImpassable: false
   hide: false
   icon:
-    sprite: _Nuclear14/Structures/Doors/SlantedDoors/metal_bar.rsi
-    state: closed
+    sprite: _Nuclear14/Structures/Doors/SlantedDoors/icons.rsi
+    state: metal_bar
   conditions:
     - !type:TileNotBlocked
     
@@ -183,8 +183,8 @@
   canBuildInImpassable: false
   hide: false
   icon:
-    sprite: _Nuclear14/Structures/Doors/SlantedDoors/fence.rsi
-    state: closed
+    sprite: _Nuclear14/Structures/Doors/SlantedDoors/icons.rsi
+    state: fence
   conditions:
     - !type:TileNotBlocked
     
@@ -201,8 +201,8 @@
   canBuildInImpassable: false
   hide: false
   icon:
-    sprite: _Nuclear14/Structures/Doors/SlantedDoors/wood.rsi
-    state: closed
+    sprite: _Nuclear14/Structures/Doors/SlantedDoors/icons.rsi
+    state: wood
   conditions:
     - !type:TileNotBlocked
     
